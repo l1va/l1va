@@ -9,7 +9,7 @@ I mainly code in Python and Golang, but <b>public</b> stats seems more interesti
 
 
 <a href="https://github.com/l1va">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=l1va&line_height=22&show_icons=true&theme=radical&layout=compact" alt="My github stats" />  
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=l1va&line_height=24&show_icons=true&theme=radical&layout=compact" alt="My github stats" />  
 </a>  
 
 <br/>
