@@ -16,4 +16,4 @@ I mainly code in Python and Golang, but <b>public</b> stats seems more interesti
 <!---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=l1va&theme=radical&repo=symhen)](https://github.com/l1va/symhen)
 --->
-If I've helped you or you just want to reach out and say "Thanks", you can [buy me a coffee](https://www.buymeacoffee.com/l1va)
+If I've helped you or you just want to reach out and say "Thanks", you can <a href="https://www.buymeacoffee.com/l1va">buy me a coffee</a>
