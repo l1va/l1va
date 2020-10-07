@@ -12,7 +12,8 @@ I mainly code in Python and Golang, but <b>public</b> stats seems more interesti
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=l1va&line_height=24&show_icons=true&theme=radical&layout=compact" alt="My github stats" />  
 </a>  
 
-<br/><br/>
+<br/>
+
 <!---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=l1va&theme=radical&repo=symhen)](https://github.com/l1va/symhen)
 --->
